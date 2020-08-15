@@ -1,0 +1,23 @@
+{
+  "name": "teste-unitario-node-jest",
+  "version": "1.0.0",
+  "description": "Exemplo simples teste unitário com Node e Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldofreitas/teste-unitario-node-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldofreitas/teste-unitario-node-jest/issues"
+  },
+  "homepage": "https://github.com/ronaldofreitas/teste-unitario-node-jest#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
